@@ -1,10 +1,21 @@
 # Awesome MPP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of resources, tools, SDKs, and services for the [Machine Payments Protocol (MPP)](https://mpp.dev) -- the open protocol for machine-to-machine payments.
+[![MPP Services](https://img.shields.io/badge/services-80%2B-brightgreen)](https://mpp.dev/services)
+[![Payment Methods](https://img.shields.io/badge/chains-15%2B-blue)](#payment-methods)
+[![SDKs](https://img.shields.io/badge/SDKs-TypeScript%20%7C%20Python%20%7C%20Rust%20%7C%20Go%20%7C%20Ruby-orange)](#sdks)
 
-MPP standardizes HTTP 402 with an extensible challenge-credential-receipt flow, so any client (agents, apps, or humans) can pay for any service in the same HTTP request. No API keys, billing accounts, or checkout flows required.
+> A curated list of resources, tools, SDKs, and services for the [Machine Payments Protocol (MPP)](https://mpp.dev) -- the open standard for AI agent payments and machine-to-machine commerce.
 
-Created by [Stripe](https://stripe.com) and [Tempo Labs](https://tempo.xyz). Launched March 2026. [IETF draft](https://datatracker.ietf.org/doc/draft-ryan-httpauth-payment/).
+## What is MPP?
+
+The **Machine Payments Protocol** is an open HTTP payment standard created by [Stripe](https://stripe.com) and [Tempo Labs](https://tempo.xyz), launched March 2026. It uses HTTP 402 (Payment Required) with an extensible challenge-credential-receipt flow so any client -- AI agents, apps, or humans -- can pay for any API or service in the same HTTP request.
+
+- No API keys, billing accounts, or checkout flows required
+- Payment-method agnostic: stablecoins, credit cards, Lightning, 15+ chains
+- Supports one-time charges, sessions (pre-authorized spending), and streaming
+- [IETF draft](https://datatracker.ietf.org/doc/draft-ryan-httpauth-payment/) (`draft-ryan-httpauth-payment`) co-authored by Stripe and Tempo
+
+MPP is designed for the agentic web -- where AI agents autonomously discover, pay for, and consume API services without human intervention.
 
 ## Contents
 
