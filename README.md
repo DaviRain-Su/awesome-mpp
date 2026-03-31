@@ -163,7 +163,7 @@ Services with built-in MPP payment support:
 - **Browserbase** - Headless browser API.
 - **Dune** - Crypto analytics.
 - **Parallel** - Agent-to-agent coordination.
-- [APIMesh](https://github.com/mbeato/conway) - 22 pay-per-call web analysis APIs (security audits, tech stack, email verify, SEO). Supports x402 + MPP.
+- [APIMesh](https://github.com/mbeato/conway) - 23 pay-per-call APIs for AI agents (email-verify, tech-stack, mock-jwt-generator, email-security, robots-txt-parser, web-checker, +17 more). Supports x402 + MPP.
 - [paid-image-api](https://github.com/cepuyut/paid-image-api) - Pay-per-request AI image generation on Tempo.
 - [Dtelecom](https://github.com/dteIecom/Dtelecom) - Real-time voice, video & voice AI. Pay-per-use via x402/MPP.
 
