@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T04:22:01.503Z",
-  "total_projects": 241,
+  "generated_at": "2026-04-02T04:32:27.005Z",
+  "total_projects": 272,
   "categories": [
     {
       "name": "Protocol and Specs",
@@ -156,6 +156,12 @@
               "name": "mpp-spl",
               "url": "https://github.com/nullxnothing/mpp-spl",
               "description": "SPL token and pump.fun payment layer with token registry and Jupiter pricing",
+              "type": "github"
+            },
+            {
+              "name": "solana-mpp",
+              "url": "https://github.com/sendaifun/solana-mpp",
+              "description": "Solana extension for MPP",
               "type": "github"
             }
           ]
@@ -411,6 +417,12 @@
               "type": "external"
             },
             {
+              "name": "asgcard-public",
+              "url": "https://github.com/ASGCompute/asgcard-public",
+              "description": "Virtual MasterCards for AI agents with USDC payments via x402 on Stellar",
+              "type": "github"
+            },
+            {
               "name": "Object Storage",
               "url": "https://objectstorage.dev",
               "description": "S3/R2-compatible object storage with dynamic per-size pricing",
@@ -514,6 +526,36 @@
               "name": "satring",
               "url": "https://github.com/toadlyBroodle/satring",
               "description": "Service directory for the agent economy with L402 and x402 discovery, ratings, and Lightning payments",
+              "type": "github"
+            },
+            {
+              "name": "regent-cli",
+              "url": "https://github.com/regent-ai/regent-cli",
+              "description": "CLI for Regent agents with ERC-8004, x402, MPP, ENS, WorldID, and XMTP support",
+              "type": "github"
+            },
+            {
+              "name": "autolaunch",
+              "url": "https://github.com/regent-ai/autolaunch",
+              "description": "Uniswap CCA auctions via CLI for agents with revenue splits from x402 and MPP",
+              "type": "github"
+            },
+            {
+              "name": "402Router",
+              "url": "https://github.com/obulai/402Router",
+              "description": "Open-source client-side model router for x402 and MPP providers",
+              "type": "github"
+            },
+            {
+              "name": "APIbase",
+              "url": "https://github.com/whiteknightonhorse/APIbase",
+              "description": "Universal MCP gateway for AI agents with 413 tools across 123 providers. Pay per call with x402 and MPP",
+              "type": "github"
+            },
+            {
+              "name": "bitrouter",
+              "url": "https://github.com/bitrouter/bitrouter",
+              "description": "Agentic proxy for modern agent runtimes with smart routing across LLMs, tools, and agents",
               "type": "github"
             },
             {
@@ -662,6 +704,36 @@
               "name": "@stellar/mpp",
               "url": "https://github.com/stellar/stellar-mpp-sdk",
               "description": "Stellar Blockchain payment method for MPP",
+              "type": "github"
+            },
+            {
+              "name": "Agent_Attestation",
+              "url": "https://github.com/KCorstor/Agent_Attestation",
+              "description": "Agent attestation API with connectivity, income verification, and ID data for x402, MPP, and KYA stacks",
+              "type": "github"
+            },
+            {
+              "name": "trust-layer",
+              "url": "https://github.com/ark-forge/trust-layer",
+              "description": "Certifying proxy for agent-to-agent transactions with SHA-256 proof chain and Ed25519 signatures",
+              "type": "github"
+            },
+            {
+              "name": "cipherpay-x402",
+              "url": "https://github.com/atmospherelabs-dev/cipherpay-x402",
+              "description": "CipherPay x402 payment integration",
+              "type": "github"
+            },
+            {
+              "name": "x402-MPP-shielded-",
+              "url": "https://github.com/amiabix/x402-MPP-shielded-",
+              "description": "Shielded payment integration for x402 and MPP",
+              "type": "github"
+            },
+            {
+              "name": "402-crawler-spec",
+              "url": "https://github.com/taskhawk-systems/402-crawler-spec",
+              "description": "Reference crawler and discovery schemas for L402, x402, and MPP paid API endpoints",
               "type": "github"
             }
           ]
@@ -1156,6 +1228,36 @@
               "url": "https://github.com/dahlinomine/mpp-wallet-js",
               "description": "Lightweight TypeScript SDK for MPP in autonomous agent wallets",
               "type": "github"
+            },
+            {
+              "name": "agent-wallet",
+              "url": "https://github.com/Sortis-AI/agent-wallet",
+              "description": "Command-line wallet for AI agents with MPP and Solana support",
+              "type": "github"
+            },
+            {
+              "name": "DRAIN",
+              "url": "https://github.com/kimbo128/DRAIN",
+              "description": "Decentralized runtime for AI networks with trustless micropayments for AI agents",
+              "type": "github"
+            },
+            {
+              "name": "boltzpay",
+              "url": "https://github.com/leventilo/boltzpay",
+              "description": "Multi-protocol, multi-chain payment fetch wrapper for AI agents",
+              "type": "github"
+            },
+            {
+              "name": "settlegrid",
+              "url": "https://github.com/lexwhiting/settlegrid",
+              "description": "Settlement layer for AI agent payments with per-call billing, 10 protocols, and built-in discovery",
+              "type": "github"
+            },
+            {
+              "name": "marc",
+              "url": "https://github.com/marc-protocol/marc",
+              "description": "Privacy layer for agent payments using FHE-encrypted tokens, agent identity, and escrow-based commerce",
+              "type": "github"
             }
           ]
         },
@@ -1208,6 +1310,18 @@
               "name": "tomopay-gateway",
               "url": "https://github.com/QuinnYates/tomopay-gateway",
               "description": "Payment gateway for MCP servers to monetize tools with one wrapper",
+              "type": "github"
+            },
+            {
+              "name": "402index-mcp-server",
+              "url": "https://github.com/ryanthegentry/402index-mcp-server",
+              "description": "MCP server for 402 Index with discovery across 15,000+ paid API endpoints",
+              "type": "github"
+            },
+            {
+              "name": "agentpay-mcp",
+              "url": "https://github.com/up2itnow0822/agentpay-mcp",
+              "description": "Non-custodial x402 MCP payment layer for AI agents",
               "type": "github"
             }
           ]
@@ -1336,6 +1450,72 @@
               "type": "github"
             },
             {
+              "name": "PotPuzzle",
+              "url": "https://github.com/Devendra116/PotPuzzle",
+              "description": "Real-time multiplayer word puzzles with Tempo MPP payments and winner-takes-all rewards",
+              "type": "github"
+            },
+            {
+              "name": "tempo-research-agent",
+              "url": "https://github.com/HOWTOREP/tempo-research-agent",
+              "description": "AI research agent where every tool call is a real payment on Tempo via MPP",
+              "type": "github"
+            },
+            {
+              "name": "nba-bets",
+              "url": "https://github.com/Ujjwal-N/nba-bets",
+              "description": "Real-time NBA micro-betting with on-chain USDC settlement via Tempo and MPP",
+              "type": "github"
+            },
+            {
+              "name": "ghost-kitchen",
+              "url": "https://github.com/max-digi/ghost-kitchen",
+              "description": "Agentic B2B payments demo with multi-hop MPP cascades, virtual debit cards, and DoorDash delivery",
+              "type": "github"
+            },
+            {
+              "name": "voicempp",
+              "url": "https://github.com/dieutx/voicempp",
+              "description": "Voice-as-a-Service for AI agents via Tempo MPP with TTS and STT micropayments",
+              "type": "github"
+            },
+            {
+              "name": "tempo-agent-payments-demo",
+              "url": "https://github.com/glabun002/tempo-agent-payments-demo",
+              "description": "Agent-to-agent payments on Tempo Blockchain with autonomous AI agents transacting via MPP",
+              "type": "github"
+            },
+            {
+              "name": "tweetclaw",
+              "url": "https://github.com/Xquik-dev/tweetclaw",
+              "description": "Full X/Twitter automation via OpenClaw with 120 endpoints and pay-per-call pricing",
+              "type": "github"
+            },
+            {
+              "name": "lorem-ipsum-api",
+              "url": "https://github.com/stephancill/lorem-ipsum-api",
+              "description": "Paywalled lorem ipsum API supporting x402 and MPP",
+              "type": "github"
+            },
+            {
+              "name": "arkapi",
+              "url": "https://github.com/PiHiker/arkapi",
+              "description": "Anonymous pay-per-call APIs for agents and developers funded with Bitcoin over Ark",
+              "type": "github"
+            },
+            {
+              "name": "agentic-commerce-research",
+              "url": "https://github.com/minddog/agentic-commerce-research",
+              "description": "Living research paper on agentic commerce updated daily",
+              "type": "github"
+            },
+            {
+              "name": "doli",
+              "url": "https://github.com/doli-network/doli",
+              "description": "Peer-to-peer electronic cash system based on verifiable time",
+              "type": "github"
+            },
+            {
               "name": "StableTravel",
               "url": "https://stabletravel.dev",
               "description": "Pay-per-request travel APIs — flights, hotels, activities, transfers, and real-time flight tracking. Powered by Amadeus and FlightAware",
@@ -1440,6 +1620,12 @@
               "name": "mpp-sample",
               "url": "https://github.com/mashharuki/mpp-sample",
               "description": "Sample code demonstrating the Machine Payments Protocol",
+              "type": "github"
+            },
+            {
+              "name": "Stellar-Hackathon",
+              "url": "https://github.com/abraham-yusuf/Stellar-Hackathon",
+              "description": "Stellar Hackathon agent with x402 resource integration",
               "type": "github"
             },
             {
