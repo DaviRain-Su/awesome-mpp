@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T01:28:08.783Z",
+  "generated_at": "2026-04-02T00:18:03.172Z",
   "total_projects": 180,
   "categories": [
     {
@@ -589,7 +589,7 @@
             {
               "name": "APIMesh",
               "url": "https://github.com/mbeato/conway",
-              "description": "23 pay-per-call APIs for AI agents (email-verify, tech-stack, mock-jwt-generator, email-security, robots-txt-parser, web-checker, +17 more). Supports x402 + MPP",
+              "description": "27 pay-per-call APIs for AI agents (web-checker, http-status-checker, favicon-checker, seo-audit, email-verify, tech-stack, +21 more). Supports x402 + MPP",
               "type": "github"
             },
             {
