@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T01:15:16.487Z",
-  "total_projects": 243,
+  "generated_at": "2026-04-02T01:17:07.783Z",
+  "total_projects": 240,
   "categories": [
     {
       "name": "Protocol and Specs",
@@ -327,7 +327,7 @@
             {
               "name": "QuickNode",
               "url": "https://quicknode.com/",
-              "description": "Quicknode Core Node API for 80+ blockchains and 140+ networks",
+              "description": "Core Node API for 80+ Blockchains and 140+ networks",
               "type": "external"
             }
           ]
@@ -412,7 +412,7 @@
             },
             {
               "name": "Object Storage",
-              "url": "https://tempo.xyz",
+              "url": "https://objectstorage.dev",
               "description": "S3/R2-compatible object storage with dynamic per-size pricing",
               "type": "external"
             },
@@ -1006,7 +1006,7 @@
               "type": "proxied"
             },
             {
-              "name": "[PostalForm](https://postalform.com)",
+              "name": "[PostalForm](https://www.postalform.com)",
               "description": "Proxied service available via mpp.tempo.xyz",
               "type": "proxied"
             },
@@ -1037,11 +1037,6 @@
             },
             {
               "name": "[StableUpload](https://stableupload.com)",
-              "description": "Proxied service available via mpp.tempo.xyz",
-              "type": "proxied"
-            },
-            {
-              "name": "[Object Storage](https://objectstorage.dev)",
               "description": "Proxied service available via mpp.tempo.xyz",
               "type": "proxied"
             },
@@ -1344,18 +1339,6 @@
               "name": "Stripe Climate",
               "url": "https://stripe.com/climate",
               "description": "Fund permanent carbon removal projects via Stripe Climate",
-              "type": "external"
-            },
-            {
-              "name": "PostalForm",
-              "url": "https://postalform.com",
-              "description": "Print and mail real letters and documents via AI agents",
-              "type": "external"
-            },
-            {
-              "name": "Prospect Butcher",
-              "url": "https://www.prospectbutcher.com",
-              "description": "Order sandwiches for pickup in Brooklyn — the first food purchase made entirely by an AI agent",
               "type": "external"
             },
             {
