@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T06:00:22.509Z",
-  "total_projects": 279,
+  "generated_at": "2026-04-03T16:35:32.423Z",
+  "total_projects": 280,
   "categories": [
     {
       "name": "Protocol and Specs",
@@ -1674,6 +1674,12 @@
               "name": "mpp-bds-client",
               "url": "https://github.com/powerloom/mpp-bds-client",
               "description": "Reference clients for consuming BDS datamarket API (https://bds.powerloom.io) endpoints via the Machine Payment Protocol (MPP)",
+              "type": "github"
+            },
+            {
+              "name": "aegis-autonopay",
+              "url": "https://github.com/habibafrido/aegis-autonopay",
+              "description": "AI Agent Payment Infrastructure built on Open Wallet Standard (OWS) + x402 + MPP",
               "type": "github"
             }
           ]
