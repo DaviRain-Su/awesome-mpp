@@ -166,6 +166,7 @@ The mppx TypeScript SDK includes built-in middleware for Hono, Express, Next.js,
 - [x402-MPP-shielded-](https://github.com/amiabix/x402-MPP-shielded-) - Shielded payment integration for x402 and MPP.
 - [402-crawler-spec](https://github.com/taskhawk-systems/402-crawler-spec) - Reference crawler and discovery schemas for L402, x402, and MPP paid API endpoints.
 
+- [@x402/evm](https://github.com/x402-foundation/x402) - X402 Payment Protocol EVM Implementation.
 ## Services
 
 ### First-Party
@@ -300,6 +301,9 @@ Available through Tempo's MPP proxy at mpp.tempo.xyz -- pay with any MPP method:
 - [Stellar-Hackathon](https://github.com/abraham-yusuf/Stellar-Hackathon) - Stellar Hackathon agent with x402 resource integration.
 
 - [awesome-mpp](https://github.com/mbeato/awesome-mpp) - The MPP registry — 100+ Machine Payments Protocol tools, SDKs, services, and payment methods across 15+ chains. The definitive directory for Stripe + Tempo agent payments.
+- [mpp-xpr](https://github.com/charliebot87/mpp-xpr) - XPR Network payment method for MPP (Machine Payments Protocol) — zero gas fees, sub-second finality.
+- [mpp-sdk](https://github.com/hyli-org/mpp-sdk) - Integration of Hyli for the Machine Payments Protocol.
+- [mpp-bds-client](https://github.com/powerloom/mpp-bds-client) - Reference clients for consuming BDS datamarket API (https://bds.powerloom.io) endpoints via the Machine Payment Protocol (MPP).
 ## Tempo Blockchain
 
 The payments infrastructure powering MPP:
