@@ -305,6 +305,8 @@ Available through Tempo's MPP proxy at mpp.tempo.xyz -- pay with any MPP method:
 - [mpp-sdk](https://github.com/hyli-org/mpp-sdk) - Integration of Hyli for the Machine Payments Protocol.
 - [mpp-bds-client](https://github.com/powerloom/mpp-bds-client) - Reference clients for consuming BDS datamarket API (https://bds.powerloom.io) endpoints via the Machine Payment Protocol (MPP).
 - [aegis-autonopay](https://github.com/habibafrido/aegis-autonopay) - AI Agent Payment Infrastructure built on Open Wallet Standard (OWS) + x402 + MPP.
+- [mpp-agent-demo](https://github.com/mlouie/mpp-agent-demo) - Exploring Tempo's Machine Payments Protocol (MPP) through an agentic DoorDash commerce demo.
+- [ASGCompute-ows-agent-pay](https://github.com/ASGCompute/ASGCompute-ows-agent-pay) - ASG Pay - Payment infrastructure for autonomous AI agents. 15 networks (EVM, Stellar, Solana, Stripe MPP), dual protocol (x402 + MPP), fail-closed policy engine. npm: @asgcard/pay.
 ## Tempo Blockchain
 
 The payments infrastructure powering MPP:
