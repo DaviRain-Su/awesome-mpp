@@ -307,6 +307,8 @@ Available through Tempo's MPP proxy at mpp.tempo.xyz -- pay with any MPP method:
 - [aegis-autonopay](https://github.com/habibafrido/aegis-autonopay) - AI Agent Payment Infrastructure built on Open Wallet Standard (OWS) + x402 + MPP.
 - [mpp-agent-demo](https://github.com/mlouie/mpp-agent-demo) - Exploring Tempo's Machine Payments Protocol (MPP) through an agentic DoorDash commerce demo.
 - [ASGCompute-ows-agent-pay](https://github.com/ASGCompute/ASGCompute-ows-agent-pay) - ASG Pay - Payment infrastructure for autonomous AI agents. 15 networks (EVM, Stellar, Solana, Stripe MPP), dual protocol (x402 + MPP), fail-closed policy engine. npm: @asgcard/pay.
+- [mppx-arc](https://github.com/Himess/mppx-arc) - MPP (Machine Payments Protocol) payment method for Circle's Arc chain — USDC-native charge + session support.
+- [robotpostal](https://github.com/intenex/robotpostal) - Physical mail for AI agents. API-first postal service with x402, MPP, and Stripe payments.
 ## Tempo Blockchain
 
 The payments infrastructure powering MPP:
