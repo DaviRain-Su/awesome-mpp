@@ -309,6 +309,8 @@ Available through Tempo's MPP proxy at mpp.tempo.xyz -- pay with any MPP method:
 - [ASGCompute-ows-agent-pay](https://github.com/ASGCompute/ASGCompute-ows-agent-pay) - ASG Pay - Payment infrastructure for autonomous AI agents. 15 networks (EVM, Stellar, Solana, Stripe MPP), dual protocol (x402 + MPP), fail-closed policy engine. npm: @asgcard/pay.
 - [mppx-arc](https://github.com/Himess/mppx-arc) - MPP (Machine Payments Protocol) payment method for Circle's Arc chain — USDC-native charge + session support.
 - [robotpostal](https://github.com/intenex/robotpostal) - Physical mail for AI agents. API-first postal service with x402, MPP, and Stripe payments.
+- [Starlane](https://github.com/Cassxbt/Starlane) - Dual-rail payment infrastructure for AI agents on Stellar — x402 per-call and MPP payment channels, with a service registry and MCP  interface.
+- [Stellect](https://github.com/anilkaracay/Stellect) - The agent payment gateway for Stellar. Smart routing between x402 and MPP — one SDK, any protocol, real USDC settlement.
 ## Tempo Blockchain
 
 The payments infrastructure powering MPP:
