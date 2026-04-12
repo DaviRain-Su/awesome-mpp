@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T06:01:01.451Z",
-  "total_projects": 295,
+  "generated_at": "2026-04-12T10:00:29.659Z",
+  "total_projects": 296,
   "categories": [
     {
       "name": "Protocol and Specs",
@@ -1770,6 +1770,12 @@
               "name": "moltpe-agent-payments",
               "url": "https://github.com/umangbuilds/moltpe-agent-payments",
               "description": "Payment infrastructure for AI agents. Reference implementation: x402 + MPP + fiat",
+              "type": "github"
+            },
+            {
+              "name": "mppx-hedera",
+              "url": "https://github.com/tomrowbo/mppx-hedera",
+              "description": "First native Machine Payments Protocol method for Hedera. Charge + session intents, no facilitator. MIT",
               "type": "github"
             }
           ]
