@@ -320,6 +320,7 @@ Available through Tempo's MPP proxy at mpp.tempo.xyz -- pay with any MPP method:
 - [tempo-agent-treaty](https://github.com/mcevoyinit/tempo-agent-treaty) - Agentic OTC block trading on Tempo chain. AI agents negotiate large trades P2P using Vellum SDK, settled via MPP (Machine Payments Protocol).
 - [bkey-ios-x402](https://github.com/fabianbaier/bkey-ios-x402) - BKey iOS SDK — x402/MPP machine-payment support.
 - [moltpe-agent-payments](https://github.com/umangbuilds/moltpe-agent-payments) - Payment infrastructure for AI agents. Reference implementation: x402 + MPP + fiat.
+- [mppx-hedera](https://github.com/tomrowbo/mppx-hedera) - First native Machine Payments Protocol method for Hedera. Charge + session intents, no facilitator. MIT.
 ## Tempo Blockchain
 
 The payments infrastructure powering MPP:
